@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.PAExec</id>
-	<version>0.0.1-alpha</version>
+	<version>0.0.2-alpha</version>
     <title>VL.PAExec</title>
     <authors>vvvv</authors>
     <owners>vvvv</owners>
     <projectUrl>https://github.com/vvvv/VL.PAExec</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>Set of nodes to execute [PAExec] from VL.</summary>
-	<description>Set of nodes to execute [PAExec] from VL.</description>
+    <summary>Set of nodes to execute [PAExec](https://www.poweradmin.com/paexec/) from VL.</summary>
+	<description>Set of nodes to execute [PAExec](https://www.poweradmin.com/paexec/) from VL.</description>
     <tags>VL, pstools, paexec</tags>
     <license type="expression">LGPL-3.0-only</license>
     <icon>nugeticon.png</icon>
