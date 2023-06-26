@@ -1,6 +1,9 @@
 # VL.PAExec
 Set of nodes to execute [PAExec](https://www.poweradmin.com/paexec/).
 
+## License
+PAExec has its own very permissive [license](https://www.poweradmin.com/paexec/paexec_eula.txt).
+
 ## Troubleshooting
 Getting PAExec to work can be a bit tricky. The following seem to be the most important settings to check on the target PC:
 
