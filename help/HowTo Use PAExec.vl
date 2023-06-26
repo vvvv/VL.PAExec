@@ -107,7 +107,7 @@
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
           </Pad>
-          <Pad Id="VDldP5aacgvPYmGPgB9Wna" Bounds="178,219,227,19" ShowValueBox="true" isIOBox="true" Value="About PAExec and its parameters:">
+          <Pad Id="VDldP5aacgvPYmGPgB9Wna" Bounds="178,157,227,19" ShowValueBox="true" isIOBox="true" Value="About PAExec and its parameters:">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
@@ -116,7 +116,7 @@
               <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
             </p:ValueBoxSettings>
           </Pad>
-          <Pad Id="BlGfkAVzqBwM0Pxs6S0WFE" Bounds="178,237,408,19" ShowValueBox="true" isIOBox="true" Value="https://www.poweradmin.com/paexec/">
+          <Pad Id="BlGfkAVzqBwM0Pxs6S0WFE" Bounds="178,175,408,19" ShowValueBox="true" isIOBox="true" Value="https://www.poweradmin.com/paexec/">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
@@ -125,7 +125,7 @@
               <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Link</p:stringtype>
             </p:ValueBoxSettings>
           </Pad>
-          <Pad Id="ArgyKgfsI2IPsmDImP6Muq" Bounds="178,262,159,19" ShowValueBox="true" isIOBox="true" Value="License:">
+          <Pad Id="ArgyKgfsI2IPsmDImP6Muq" Bounds="178,205,159,19" ShowValueBox="true" isIOBox="true" Value="License:">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
@@ -134,7 +134,7 @@
               <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
             </p:ValueBoxSettings>
           </Pad>
-          <Pad Id="BlgEOaKUNLrQWYwojbNe1V" Bounds="178,282,384,19" ShowValueBox="true" isIOBox="true" Value="https://www.poweradmin.com/paexec/paexec_eula.txt">
+          <Pad Id="BlgEOaKUNLrQWYwojbNe1V" Bounds="178,225,384,19" ShowValueBox="true" isIOBox="true" Value="https://www.poweradmin.com/paexec/paexec_eula.txt">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
@@ -170,6 +170,24 @@
             </p:ValueBoxSettings>
           </Pad>
           <Pad Id="FMffI5HesC1PN6epuR0CjO" Bounds="694,671,343,19" ShowValueBox="true" isIOBox="true" Value="https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/taskkill">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">9</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Link</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="D8unGyRCL7TOjD4DIClt8p" Bounds="178,253,159,19" ShowValueBox="true" isIOBox="true" Value="Troubleshooting:">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">9</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="Sv58bYGO0XwLoiJICJJz0M" Bounds="178,273,384,19" ShowValueBox="true" isIOBox="true" Value="https://github.com/vvvv/VL.PAExec#troubleshooting">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>

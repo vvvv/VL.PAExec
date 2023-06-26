@@ -1,5 +1,5 @@
 # VL.PAExec
-Set of nodes to execute [PAExec](https://www.poweradmin.com/paexec/).
+Set of nodes to execute [PAExec](https://www.poweradmin.com/paexec/), [github repo](https://github.com/poweradminllc/PAExec).
 
 ## License
 PAExec has its own very permissive [license](https://www.poweradmin.com/paexec/paexec_eula.txt).
